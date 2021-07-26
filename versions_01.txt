@@ -1,2 +1,6 @@
-dds
-https://gitlab.com/legrandbluestudio/bitbox.git
+Версия Unity 2020.3.0f1
+Плагины
+Cinemamashine 2.6.3
+Timeline 1.4.7
+High Definition RP 10.3.2
+playMaker 1.9.0
