@@ -1,1 +1,2 @@
 dds
+https://gitlab.com/legrandbluestudio/bitbox.git
